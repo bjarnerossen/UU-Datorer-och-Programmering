@@ -11,8 +11,8 @@ The course provides the basics of programming and is suitable for beginners with
 | Name        | Theme                           |  Status |
 | :---------- | :------------------------------- | :----: |
 | **Lab 1**   | `Introduction`                        | ✅ |
-| **[Lab 2]()**   | `Conditionals`| ✅|
-| **[Lab 3]()**   | `Functions`                     | ✅|
-| **[Lab 4]()**   | `Strings` & `Arrays` | ✅|
-| **[Lab 5]()** | `Classes`           |✅|
-| **[Lab 6]()** | `All the above`           |✅|
+| **[Lab 2](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp2)**   | `Conditionals`| ✅|
+| **[Lab 3](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp3)**   | `Functions`                     | ✅|
+| **[Lab 4](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp4)**   | `Strings` & `Arrays` | ✅|
+| **[Lab 5](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp5)** | `Classes`           |✅|
+| **[Lab 6](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp6)** | `All the above`           |✅|
