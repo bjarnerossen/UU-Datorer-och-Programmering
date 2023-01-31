@@ -16,3 +16,6 @@ The course provides the basics of programming and is suitable for beginners with
 | **[Lab 4](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp4)**   | `Strings` & `Arrays` | ✅|
 | **[Lab 5](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp5)** | `Classes`           |✅|
 | **[Lab 6](https://github.com/bjarnerossen/UU-Datorer-och-Programmering/tree/main/Inlupp6)** | `All the above`           |✅|
+
+---
+> **DISCLAIMER:** *The code provided in this repository is for educational purposes only. It is intended to demonstrate various concepts and techniques related to programming and software development. The code is not intended to be used as a reference for academic work or submissions.*
