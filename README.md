@@ -1,12 +1,14 @@
 # UU-Datorer och Programmering (UU-62031)
 
-### Computers and Programming course at Uppsala University
-
+## Computers and Programming course at Uppsala University
+### Course Description
 The course provides the basics of programming and is suitable for beginners without previous programming experience. It covers the `C++` programming language, which is one of the most widely used programming languages today. There are several reasons to learn C++ in particular, for example that it is used a lot, above all in industry. 
 
 ---
+### 💻 Technologies:
+* `C++ programming language`
 
-**Course Outline:**
+### **🗓️ Course Outline:**
 
 | Name        | Theme                           |  Status |
 | :---------- | :------------------------------- | :----: |
