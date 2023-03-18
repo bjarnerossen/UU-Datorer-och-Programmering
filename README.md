@@ -8,7 +8,7 @@ The course provides the basics of programming and is suitable for beginners with
 
 To get started with this repository, simply clone the repository to your local machine.
 ```terminal
-$ git clone https://github.com/bjarnerossen/uu-datorer-och-programmering.git
+$ git clone https://github.com/bjarnerossen/UU-Datorer-och-Programmering.git
 ```
 
 Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
