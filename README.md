@@ -1,14 +1,21 @@
-# UU-Datorer och Programmering (UU-62031)
-
-## Computers and Programming course at Uppsala University
-### Course Description
+# Computers and Programming course at Uppsala University (1TD317)
 The course provides the basics of programming and is suitable for beginners without previous programming experience. It covers the `C++` programming language, which is one of the most widely used programming languages today. There are several reasons to learn C++ in particular, for example that it is used a lot, above all in industry. 
 
----
-### 💻 Technologies
+## 💻 Technologies
 * `C++ programming language`
 
-### **🗓️ Course Outline**
+## 🚀Getting Started
+
+To get started with this repository, simply clone the repository to your local machine.
+```terminal
+$ git clone https://github.com/bjarnerossen/uu-datorer-och-programmering.git
+```
+
+Each week contains a directory that includes the source code and relevant files for that week's assignments and projects.
+
+
+
+## **🗓️ Course Outline**
 
 | Name        | Theme                           |  Status |
 | :---------- | :------------------------------- | :----: |
